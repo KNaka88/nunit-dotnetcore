@@ -1,0 +1,9 @@
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/koji/Repositories/Csharp/unit-testing-using-nunit/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
